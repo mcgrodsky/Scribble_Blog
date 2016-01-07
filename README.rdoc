@@ -1,1 +1,7 @@
-
+<h1>Blogging Platform made in Ruby on Rails</h1>
+<h2>Technologies Used</h2>
+<ul>
+<li>Ruby on Rails </li>
+<li> Devise Gem </li>
+<li> Heroku </li>
+</ul>
